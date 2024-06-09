@@ -1,0 +1,594 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ShopFashion\\FashionShop_DACS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs_api\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|solutionrelative:fashionshop_dacs_api\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs_api\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|solutionrelative:fashionshop_dacs_api\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|solutionrelative:fashionshop_dacs_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\helper\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\helper\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|solutionrelative:fashionshop_dacs_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|solutionrelative:fashionshop_dacs_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\views\\user\\lockaccounttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\views\\user\\lockaccounttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\views\\order\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\views\\order\\listorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\repositories\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\repositories\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\customer\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\customer\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\customer\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\customer\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\customer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\customer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3B9510-3F65-496C-8FEC-CA690B67C462}|FashionShop_DACS_API\\FashionShop_DACS_API.csproj|solutionrelative:fashionshop_dacs_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\helper\\abstract\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\helper\\abstract\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\admin\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\admin\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|c:\\shopfashion\\fashionshop_dacs\\fashionshop_dacs\\areas\\customer\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68400166-8AC7-451D-A2BF-8EC193A0C3D4}|FashionShop_DACS\\FashionShop_DACS.csproj|solutionrelative:fashionshop_dacs\\areas\\customer\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS_API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FashionShop_DACS_API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAhwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:07:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS_API\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "FashionShop_DACS_API\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAhwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:07:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:05:44.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\appsettings.json",
+              "RelativeDocumentMoniker": "FashionShop_DACS_API\\appsettings.json",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\appsettings.json",
+              "RelativeToolTip": "FashionShop_DACS_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T05:06:22.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:18:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Program.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Program.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Program.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:11:36.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS_API\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "FashionShop_DACS_API\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:21:46.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS_API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FashionShop_DACS_API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:10:23.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvzcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:05:40.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LockAccountTest.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\User\\LockAccountTest.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Views\\User\\LockAccountTest.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\User\\LockAccountTest.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Views\\User\\LockAccountTest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:36:24.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Helper\\EmailSender.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Helper\\EmailSender.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Helper\\EmailSender.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Helper\\EmailSender.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:21:52.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\appsettings.json",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\appsettings.json",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\appsettings.json",
+              "RelativeToolTip": "FashionShop_DACS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T02:23:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:45:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAwwBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:10:52.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Views\\User\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Views\\User\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T02:10:19.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Customer\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Customer\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:03:10.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAUwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:05:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:02:43.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:31:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListOrder.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Views\\Order\\ListOrder.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:30:33.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:30:54.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T03:46:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EFOrderRepository.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Repositories\\EFOrderRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Repositories\\EFOrderRepository.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Repositories\\EFOrderRepository.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Repositories\\EFOrderRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:19:38.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDoAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:03:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Customer\\Views\\Product\\Display.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:03:41.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:08:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T03:31:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:57:32.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Models\\Order.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Models\\Order.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:36:02.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:18:46.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS_API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FashionShop_DACS_API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:26:03.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:05:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Helper\\Abstract\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Helper\\Abstract\\IEmailSender.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Helper\\Abstract\\IEmailSender.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Helper\\Abstract\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:21:27.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Admin\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Admin\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Admin\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T02:12:58.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FashionShop_DACS\\Areas\\Customer\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\ShopFashion\\FashionShop_DACS\\FashionShop_DACS\\Areas\\Customer\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FashionShop_DACS\\Areas\\Customer\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:05:51.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
